@@ -1,0 +1,12 @@
+# F1 Aerodynamics Agent - Python Dependencies
+
+# Core scientific computing
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Data analysis and F1 data
+pandas>=2.0.0
+fastf1>=3.0.0
+
+# Optional: MCP integration (future)
+# mcp>=0.1.0  # Uncomment when MCP Python client is available
